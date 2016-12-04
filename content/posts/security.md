@@ -19,7 +19,7 @@ thumbnail = "images/security.jpeg"
 
 ## 流山市事件発生件数（平成28年1月〜11月末）
 
-{{< exploratory "https://exploratory.io/viz/genokamura/9916191687506399?cb=1480866810366" >}}
+{{< exploratory "https://exploratory.io/viz/genokamura/4904859612790178?cb=1480869239862" >}}
 
 ## 流山市事件内訳（平成28年1月〜11月末／四半期毎）
 
