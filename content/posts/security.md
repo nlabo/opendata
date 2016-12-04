@@ -18,6 +18,12 @@ thumbnail = "images/security.jpeg"
 - 自主防犯パトロール隊のマッピング
 
 ## 流山市事件発生件数（平成28年1月〜11月末）
+
 {{< exploratory "https://exploratory.io/viz/genokamura/9916191687506399?cb=1480866810366" >}}
-- データソース
-- http://www.city.nagareyama.chiba.jp/life/36/293/28712/index.html
+
+## 流山市事件内訳（平成28年1月〜11月末／四半期毎）
+
+{{< exploratory "https://exploratory.io/viz/genokamura/8693037908189606?cb=1480867200576" >}}
+
+> データソース
+> http://www.city.nagareyama.chiba.jp/life/36/293/28712/index.html
