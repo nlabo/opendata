@@ -20,7 +20,7 @@ thumbnail = "images/rush.jpg"
 - 市内年齢別分布図
 - 子どもの数と同時に75歳以上も増えている
 
-# 流山市の人口（平成28年10月1日）
+## 流山市の人口（平成28年10月1日）
 
 {{< exploratory "https://exploratory.io/viz/genokamura/6688336951063455?cb=1480868274394" >}}
 
