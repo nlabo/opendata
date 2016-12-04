@@ -34,3 +34,9 @@ thumbnail = "images/child.jpg"
 - なこっこ
 - ライズアップ
 - 学校関連は入れるか？
+
+### 流山市の未就学児童数（６歳未満）・平成28年10月1日現在
+{{< exploratory "https://exploratory.io/viz/genokamura/4985064106936710?cb=1480860629037" >}}
+
+### 流山市の20〜30代人口・平成28年10月1日現在
+{{< exploratory "https://exploratory.io/viz/genokamura/7511734638561326?cb=1480861516695" >}}
