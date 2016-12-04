@@ -16,3 +16,8 @@ thumbnail = "images/security.jpeg"
 - 火災件数
 - 市民1人1人あたりなどで他市との比較
 - 自主防犯パトロール隊のマッピング
+
+## 流山市事件発生件数（平成28年1月〜11月末）
+{{< exploratory "https://exploratory.io/viz/genokamura/9916191687506399?cb=1480866810366" >}}
+- データソース
+- http://www.city.nagareyama.chiba.jp/life/36/293/28712/index.html
