@@ -19,3 +19,11 @@ thumbnail = "images/rush.jpg"
 - 合計特殊出生率の推移と全国または他市との比較
 - 市内年齢別分布図
 - 子どもの数と同時に75歳以上も増えている
+
+# 流山市の人口（平成28年10月1日）
+
+{{< exploratory "https://exploratory.io/viz/genokamura/6688336951063455?cb=1480868274394" >}}
+
+## 流山市75歳以上の人口（平成28年10月1日）
+
+{{< exploratory "https://exploratory.io/viz/genokamura/1653306286790158?cb=1480867918688" >}}
